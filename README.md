@@ -4,7 +4,7 @@ Este programa permite realizar tareas de lectura, escritura, modificación y eli
 
 ## Requisitos
 
-* Tener instaldo Node
+* Tener instalado Node
 * Ejecutar el comando: 
 
 ```
